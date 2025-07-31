@@ -1,0 +1,16 @@
+{
+  "name": "poc-release-please",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest ./test"
+  },
+  "keywords": [],
+  "author": "Eduard Baron",
+  "license": "ISC",
+  "description": "Poc",
+  "type": "module",
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
